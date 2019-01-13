@@ -1,10 +1,11 @@
 {
-  "name": "socket.io-client",
+  "name": "socket.io-client-tool",
   "version": "0.0.1",
   "description": "a client tool base on socket.io",
   "author": "yangoogle <a client tool base on socket.io>",
   "license": "",
   "dependencies": {
+    "socket.io-client": "^2.2.0",
     "vue": "^2.5.17"
   },
   "scripts": {},
