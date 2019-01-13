@@ -5,6 +5,7 @@
   "author": "yangoogle <a client tool base on socket.io>",
   "license": "",
   "dependencies": {
+    "iview": "^3.2.1",
     "socket.io-client": "^2.2.0",
     "vue": "^2.5.17"
   },
